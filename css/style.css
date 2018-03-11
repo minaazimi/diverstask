@@ -13,7 +13,6 @@ body {
   margin: 15px 0px;
 }
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Lato', sans-serif;
   color: #353f48;
 }
 h1 {
@@ -39,15 +38,6 @@ ul#categoryList {
 ul#categoryList li {
   display: block;
   color: #697684;
-}
-hr {
-  display: block;
-  width: 50px;
-  height: 1px;
-  border: 0;
-  border-top: 1px solid #ccc;
-  margin: 1em 0;
-  padding: 0;
 }
 a:hover {
   color: red;
